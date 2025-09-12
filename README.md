@@ -1,7 +1,7 @@
 ## SCRAPERTRON1000, a Python Amazon Web Scraper/Tracker
 
 ### Preface:
-This project was originally designed with VSCode in mind for a high school project. Changes are coming soon™️!
+This project was originally designed with VSCode in mind. Changes are coming soon™️!
 ### Usage:
 IMPORTANT!! The files `urls.txt` and `priceLog.txt` are OPTIONAL downloads with 7 example Amazon links and a few example logs. `scrapertron.py` can work as a standalone program and will create any needed files.
 
@@ -27,21 +27,3 @@ If you intend to use your own email bot, you will need to use your own email & a
 - smtplib
 - datetime
 - sys
-  
-### Rubric (52/50)
-- [x] Writeup (10)
-     - [x] Research (8)
-     - [x] Works Cited (2)
-- [x] Presentation (20)
-     - [x] Well-Designed Slides (5)
-     - [x] Engaging (10)
-     - [x] Responds to questions well (5)
-- [x] Program (18)
-     - [x] Version Control (4)
-     - [x] Demonstration (10)
-     - [x] Run via comand line and add arguments (4)
-- [x] README.md (2)
-     - [x] Dependencies (1)
-     - [x] Commands and arguments to run (1)
-- [x] Extentions (2)
-     - [x] Sends email when alert is triggered (2)
